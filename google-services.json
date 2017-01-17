@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "650004565944",
+    "firebase_url": "https://risk-app-42a3e.firebaseio.com",
+    "project_id": "risk-app-42a3e",
+    "storage_bucket": "risk-app-42a3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650004565944:android:56594a4417bd3a3c",
+        "android_client_info": {
+          "package_name": "com.example.lkerr.risk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650004565944-4lnsvocl0hcsp7jvpigghb5phf0pmu10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lkerr.risk_app",
+            "certificate_hash": "9ECF74BF439BD7DF4D6E4563C776A0615FBD825D"
+          }
+        },
+        {
+          "client_id": "650004565944-9fegir0i8g925jrngd1g3hm3n9ea8phe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4mRX5LvJ-ztXdgQfiZVQJLMbusJbW7sY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650004565944-9fegir0i8g925jrngd1g3hm3n9ea8phe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

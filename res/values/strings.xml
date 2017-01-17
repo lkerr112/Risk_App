@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Risk_App</string>
+    <string name="stringWelcome">Hello There, this is working!</string>
+    <string name="stringLogout">Logout</string>
+</resources>
